@@ -1,4 +1,4 @@
-#searching using loop
+#searching using while loop
 arr = [1,2,3,4,5,6,7,8,45,34,655]
 target = 777
 i = 0
